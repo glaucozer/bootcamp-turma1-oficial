@@ -7,8 +7,7 @@ import Login from './pages/Login'
 function App() {
   return (
     <div >
-      <Login/>
-      <Button color="primary">primary</Button>
+      <Login fontSize={20}/>
     </div>
   );
 }
